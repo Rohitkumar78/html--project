@@ -1,0 +1,40 @@
+/* <style> */
+.img-area {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin: 25px auto;
+	border: 15px groove deepskyblue;
+}
+.img-area img {
+	width: 100%;
+}
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact a {
+            display: block;
+            color: #0073e6;
+            text-decoration: none;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    /* </style> */
